@@ -1,3 +1,6 @@
+#assets_audio_player_no_web
+由于原插件仓库已经只读，但是由web插件导致的安卓编译错误仍然为解决，所以我将删除web插件后的assets_audio_player放到这里。
+
 # 🎧 assets_audio_player 🔊
 
 [![pub package](https://img.shields.io/pub/v/assets_audio_player.svg)](https://pub.dartlang.org/packages/assets_audio_player)
